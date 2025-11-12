@@ -1,1 +1,1 @@
-console.log('Elite Sportswear website loaded!');
+console.log('CMT Sportswear site loaded successfully!');
